@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Axit3376
-- 👀 I’m interested in Python, Web Development, DSA and exploring further.
+- 👀 I’m interested in Python, Machine Learning, Web Development, DSA and exploring further.
 - 🌱 I’m currently learning DSA and Web Development.
 - 💞️ I’m looking to collaborate on different projects which tests my capabilities and help me learn further.
 - 📫 How to reach me adityashekhar207@gmail.com
